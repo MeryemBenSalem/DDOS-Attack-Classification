@@ -16,7 +16,6 @@ The dataset used for this project is the **IDS 2017 dataset**. This publicly ava
 
 - **Dataset Name**: IDS 2017
 - **Description**: Contains labeled network traffic data for DDoS and other types of attacks.
-- **Source**: [IDS 2019 Dataset](https://www.unb.ca/cic/datasets/ddos-2019.html)
 - **Features**: Includes a wide range of features related to network traffic such as packet size, duration, and protocol type.
 
 ## Models Used
